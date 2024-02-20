@@ -68,7 +68,8 @@ to see the webpage
 
 ## Database
 
-![database.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9569794c-20f9-45a0-b771-b02f3b226deb/963a473f-77dd-49d2-8b6f-61a73147ed9d/database.png)
+![database](https://github.com/Vemund1999/reddit_clone/assets/88531005/b1d9ab18-f778-4288-8a9c-863098e00ab1)
+
 
 ## Some features
 
