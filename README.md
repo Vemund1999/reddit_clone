@@ -68,7 +68,8 @@ to see the webpage
 
 ## Database
 If some of the images are unclear, then click on them to get a better view.
-![database](https://github.com/Vemund1999/reddit_clone/assets/88531005/b1d9ab18-f778-4288-8a9c-863098e00ab1)
+![database](https://github.com/Vemund1999/reddit_clone/assets/88531005/55871bbe-5db8-466b-bb07-2aaec151d00c)
+
 
 
 ## Some features
@@ -81,33 +82,43 @@ http://localhost:3000/
 
 the webpage looks like this
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9569794c-20f9-45a0-b771-b02f3b226deb/adc719ba-2718-4c55-a489-de6254c69b64/Untitled.png)
+![Untitled](https://github.com/Vemund1999/reddit_clone/assets/88531005/b2523b84-5df3-48e7-b278-1458826ba7bc)
+
+
+
 
 You can register a user by clicking “Register”
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9569794c-20f9-45a0-b771-b02f3b226deb/e1c5bce1-8c30-4103-9300-361de417d2cc/Untitled.png)
+![register](https://github.com/Vemund1999/reddit_clone/assets/88531005/eb944068-4f75-41cf-ab3c-932349a0c44e)
+
+
 
 On the profile page, a user can set a wallpaper and profile image for itself
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9569794c-20f9-45a0-b771-b02f3b226deb/ea8805f0-c921-4138-a971-1adecf2496b6/Untitled.png)
+![4](https://github.com/Vemund1999/reddit_clone/assets/88531005/6b66b931-e256-4c33-8a70-f9eb38c82a2d)
+
 
 You can make communities, like on reddit.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9569794c-20f9-45a0-b771-b02f3b226deb/99eb58b6-6a49-4b46-97be-ce873dda260f/Untitled.png)
+![5](https://github.com/Vemund1999/reddit_clone/assets/88531005/38ae92a9-bc68-4b25-b629-2a461cd94e9f)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9569794c-20f9-45a0-b771-b02f3b226deb/73edb53b-8de7-498b-a71e-e4f414492c7d/Untitled.png)
+
+![6](https://github.com/Vemund1999/reddit_clone/assets/88531005/7f224c9d-7949-48be-bf77-90a09513db66)
+
 
 On these communities, users can make posts
+![7](https://github.com/Vemund1999/reddit_clone/assets/88531005/d4f0752e-83ad-41f6-9dd0-3cf50846cc11)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9569794c-20f9-45a0-b771-b02f3b226deb/586e74ec-57d0-463b-8f1b-965230f26bea/Untitled.png)
 
 These posts have a threaded-commenting
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9569794c-20f9-45a0-b771-b02f3b226deb/43879f1f-9706-487a-a960-75ea0a0361e5/Untitled.png)
+![8](https://github.com/Vemund1999/reddit_clone/assets/88531005/d0b3f98e-f912-4fb3-9f2c-da47a7fd0fdb)
+
 
 You will recieve messages for different things, such as getting a reply from another user on your comment.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9569794c-20f9-45a0-b771-b02f3b226deb/0a37cff4-0f4d-4a0d-b7b8-ce5f4cfb8679/Untitled.png)
+![9](https://github.com/Vemund1999/reddit_clone/assets/88531005/be7193e5-fb47-4377-8ac3-29dbb2479f4f)
+
 
 These are topics the things you can recieve messages for
 
@@ -122,20 +133,24 @@ public enum MessageTopic {
 
 “NewRequestToJoinCommunity” means that on communities that are private or restricted, users must request to join the community
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9569794c-20f9-45a0-b771-b02f3b226deb/5c899edf-1c1c-4a08-83dd-fd5c74694dd9/Untitled.png)
+![10](https://github.com/Vemund1999/reddit_clone/assets/88531005/780d8d0a-c2c4-437e-8881-efc2fd941073)
+
 
 A user can be made moderator by an admin.
 
 The admin can controll what rights the moderators have.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9569794c-20f9-45a0-b771-b02f3b226deb/e3ad3394-8e0d-497d-a4d0-86b5432ffb41/Untitled.png)
+![12](https://github.com/Vemund1999/reddit_clone/assets/88531005/cedd327b-bee6-47bb-801a-6c62d58fd146)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9569794c-20f9-45a0-b771-b02f3b226deb/12edc76b-20d2-43f6-92a5-5f560e05ce78/Untitled.png)
+
+![13](https://github.com/Vemund1999/reddit_clone/assets/88531005/6237dc04-a64e-4b47-8916-66b80d934ff6)
+
 
 Users can become friends
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9569794c-20f9-45a0-b771-b02f3b226deb/31809029-a50e-4d9a-a54b-3af7268ec2ac/Untitled.png)
+![14](https://github.com/Vemund1999/reddit_clone/assets/88531005/290dfb53-4e04-4f0d-b0a3-465f7d201f10)
 
 Users have realtime chat.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9569794c-20f9-45a0-b771-b02f3b226deb/72665e9d-98f1-41a6-8d50-d5ea5de00511/Untitled.png)
+![15](https://github.com/Vemund1999/reddit_clone/assets/88531005/60fce94d-e278-4e9c-8dee-f0132c3f34a4)
+
