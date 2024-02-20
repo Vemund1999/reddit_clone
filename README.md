@@ -44,7 +44,7 @@ logging.level.org.springframework.web: DEBUG
 
 Make a database in mysql with the correct database_name.
 
-Also make sure to specify at what path you want the to be saved at.
+Also make sure to specify at what path you want images to be saved at.
 
 Run the file 
 
