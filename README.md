@@ -67,7 +67,7 @@ http://localhost:3000/
 to see the webpage
 
 ## Database
-
+If some of the images are unclear, then click on them to get a better view.
 ![database](https://github.com/Vemund1999/reddit_clone/assets/88531005/b1d9ab18-f778-4288-8a9c-863098e00ab1)
 
 
