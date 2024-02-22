@@ -5,7 +5,7 @@ The project is a reddit-clone.
 It uses 
 
 - MySQL as a database.
-- Springboot to with database
+- Springboot for backend
 - Reactjs for web-gui
 
 The project is foremost a practice in authorization.
