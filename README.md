@@ -55,6 +55,8 @@ Reddit clone\Reddit-clone\src\main\java\com\example\Reddit\clone\RedditCloneAppl
 Then run the reactjs project with 
 
 ```python
+npm install
+npm update
 npm start
 ```
 
