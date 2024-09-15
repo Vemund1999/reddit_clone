@@ -8,13 +8,12 @@ It uses
 - Springboot for backend
 - Reactjs for web-gui
 
-The project is foremost a practice in authorization.
 
 In the project, user’s can create communities.
 
 These communities can have moderators and administrators.
 
-The administrators can set different rights fro the moderators (ex moderators can ban other users, moderators can delete other’s posts)
+The administrators can set different rights for the moderators (ex moderators can ban other users, moderators can delete other’s posts)
 
 ## How to run
 
