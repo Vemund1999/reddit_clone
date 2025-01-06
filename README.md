@@ -155,3 +155,6 @@ Users have realtime chat.
 
 ![15](https://github.com/Vemund1999/reddit_clone/assets/88531005/60fce94d-e278-4e9c-8dee-f0132c3f34a4)
 
+## Potential improvments
+The project can be improved further by splitting the project into micro-services. Each micro-service can be in a docker-contrainer. There can be micro-services for users, communities & comments & posts. threaded commenting is currently handled using SQL. It would probably be easier to handle this with mongo-db. Mongo-db can have nested documents, which reminds more of nested comments.
+
